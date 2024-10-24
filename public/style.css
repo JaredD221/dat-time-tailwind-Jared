@@ -611,6 +611,11 @@ video {
   line-height: 1rem;
 }
 
+.text-8xl {
+  font-size: 6rem;
+  line-height: 1;
+}
+
 /* Your Awesome Styles */
 
 * {
